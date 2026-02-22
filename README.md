@@ -46,14 +46,6 @@
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 💬 Developer Quote
 
 > “First, solve the problem. Then, write the code.” – John Johnson  
@@ -62,7 +54,7 @@
 
 ## 👀 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=deepakmuduli978&color=blue)
 
 ---
 
