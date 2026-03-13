@@ -33,9 +33,12 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deepakmuduli978=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=deepakmuduli978&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmuduli978&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakmuduli978&hide_border=false&include_all_commits=true&count_private=true&theme=dark)<br/>
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=deepakmuduli978&theme=dark&hide_border=false)<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmuduli978&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 ## 📂 Featured Projects
 
